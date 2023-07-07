@@ -8,7 +8,7 @@ This is a Python implementation of denoising of MR (Magnetic Resonance) images w
 # Dataset
 
 
-The dataset used in this implementation is BrainWeb, which can be accessed at https://brainweb.bic.mni.mcgill.ca/. ↗ The dataset consists of simulated MR images with different levels of Rician noise.
+The dataset used in this implementation is BrainWeb, which can be accessed at https://brainweb.bic.mni.mcgill.ca/. The dataset consists of simulated MR images with different levels of Rician noise.
 ## Implementation
 
 The wider neural network with noise range division technique is implemented in this implementation. The WDNNs, WDNN-1, WDNN-2, WDNN-3, WDNN-4, WDNN-GAN and WDNN-Attention are trained and tested.
@@ -24,5 +24,5 @@ The denoising performance of the WDNN models is evaluated using the following me
 
 The results are reported in the paper and can be reproduced using the provided scripts.
 
-![App Screenshot](https://raw.githubusercontent.com/kiananvari/HMMEvaluationKit/main/Results/1.png)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/MR-Denoising-with-Wider-Neural-Network/main/Result.png)
 
