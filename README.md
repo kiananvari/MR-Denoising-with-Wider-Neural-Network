@@ -24,3 +24,5 @@ The denoising performance of the WDNN models is evaluated using the following me
 
 The results are reported in the paper and can be reproduced using the provided scripts.
 
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/HMMEvaluationKit/main/Results/1.png)
+
